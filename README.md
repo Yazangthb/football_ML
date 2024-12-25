@@ -1,1 +1,1 @@
-![Alt Text](inference_video.gif)
+![Alt Text](inf_video.gif)
